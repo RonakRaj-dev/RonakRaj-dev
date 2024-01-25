@@ -4,7 +4,7 @@
 - 💞️ Currently not looking to get collaborated 
 - 📫 You can reach me through my github account or my gmail account
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Did you know the mascot of the Android operating system is actually a little green bug called Bugdroid ?
 
 <!---
 RonakRaj-dev/RonakRaj-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
