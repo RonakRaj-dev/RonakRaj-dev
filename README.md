@@ -27,8 +27,8 @@ I am a **Full-Stack Developer** and **AI/ML Enthusiast** with a proven track rec
 
 * **[Smart Contact Manager (SCM)](https://github.com/RonakRaj-dev/Smart_Contact_Manager)** A full-stack contact management solution built with **Spring Boot** and **Tailwind CSS**, featuring secure authentication and cloud integration.
 * **[AI Pokemon Battle Sim](https://github.com/RonakRaj-dev/AI-Pokemon-Battle-Sim)** Exploring game logic and AI decision-making through a classic battle simulation.
-* **Real-time Public Safety System** A VLM-based system for incident verification, utilizing **NLP** and **Computer Vision** to enhance emergency response accuracy.
-* **Sign Language Recognition** Boosted model accuracy from **46% to 85%** using **MediaPipe** and **LSTM**, significantly reducing detection latency.
+* **[Real-time Public Safety System](https://github.com/RonakRaj-dev/CivilIntel.git)** A VLM-based system for incident verification, utilizing **NLP** and **Computer Vision** to enhance emergency response accuracy.
+* **[Lungs-Disease-Detection](https://github.com/RonakRaj-dev/IIT-Lungs-Project.git)** A computer vision based project where more than 2 models are being used to detect disease in lungs.
 
 ---
 
@@ -48,6 +48,4 @@ I am a **Full-Stack Developer** and **AI/ML Enthusiast** with a proven track rec
 * 🛡️ **Collaboration:** Currently focused on independent development and open-source contests.
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonakRaj-dev&show_icons=true&theme=radical" alt="Ronak's GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats-three-sigma-80.vercel.app/api?username=RonakRaj-dev&show_icons=true&theme=radical)
