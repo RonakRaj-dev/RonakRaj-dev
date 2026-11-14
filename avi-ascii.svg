@@ -1,0 +1,3370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="600"
+    height="583"
+    viewBox="0 0 600 583"
+    role="img"
+    aria-label="Animated ASCII portrait"
+>
+
+    <title>Self-typing ASCII Portrait</title>
+
+    <rect
+        width="100%"
+        height="100%"
+        fill="#ffffff"
+    />
+
+    <defs>
+
+
+        <clipPath id="clip-0">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.000s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-1">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.045s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-2">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.090s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-3">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.135s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-4">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.180s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-5">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.225s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-6">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.270s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-7">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.315s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-8">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.360s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-9">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.405s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-10">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.450s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-11">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.495s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-12">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.540s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-13">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.585s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-14">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.630s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-15">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.675s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-16">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.720s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-17">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.765s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-18">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.810s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-19">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.855s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-20">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.900s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-21">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.945s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-22">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="0.990s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-23">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.035s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-24">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.080s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-25">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.125s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-26">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.170s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-27">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.215s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-28">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.260s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-29">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.305s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-30">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.350s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-31">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.395s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-32">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.440s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-33">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.485s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-34">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.530s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-35">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.575s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-36">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.620s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-37">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.665s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-38">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.710s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-39">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.755s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-40">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.800s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-41">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.845s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-42">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.890s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-43">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.935s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-44">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="1.980s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-45">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="2.025s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-46">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="2.070s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-47">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="2.115s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-48">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="2.160s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-49">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="2.205s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-50">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="2.250s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-51">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="2.295s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+        <clipPath id="clip-52">
+            <rect
+                x="0"
+                y="0"
+                width="0"
+                height="11"
+            >
+                <animate
+                    attributeName="width"
+                    from="0"
+                    to="600"
+                    begin="2.340s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+        </clipPath>
+        
+
+    </defs>
+
+    <g>
+
+
+        <g transform="translate(0, 0)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-0)"
+            >                                                                                                    </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.000s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.000s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 11)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-1)"
+            >                                                                                                    </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.045s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.045s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 22)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-2)"
+            >                                                                                                    </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.090s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.090s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 33)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-3)"
+            >                                                                                                    </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.135s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.135s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 44)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-4)"
+            >                                                                                                    </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.180s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.180s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 55)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-5)"
+            >                                             .:``:++:                                               </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.225s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.225s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 66)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-6)"
+            >                                            .*#scs##c-.                                             </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.270s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.270s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 77)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-7)"
+            >                                            *###%%#%#s=                                             </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.315s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.315s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 88)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-8)"
+            >                                           .s#**ccs#%%s:                                            </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.360s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.360s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 99)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-9)"
+            >                                           :#+:----=+s#+                                            </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.405s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.405s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 110)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-10)"
+            >                                           -s::::::``.+c                                            </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.450s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.450s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 121)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-11)"
+            >                                           =*``::::`. `*                                            </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.495s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.495s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 132)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-12)"
+            >                                           :-`=++==-:.`=                                            </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.540s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.540s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 143)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-13)"
+            >                                           .`=cssccs#*:`                                            </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.585s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.585s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 154)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-14)"
+            >                                            --+#s#sss**`                                            </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.630s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.630s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 165)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-15)"
+            >                                           `:-+ss*=c#*=:                                            </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.675s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.675s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 176)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-16)"
+            >                                          .-.:=*c:.++:.:                                            </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.720s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.720s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 187)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-17)"
+            >                                           =..-c++++*`.-                                            </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.765s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.765s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 198)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-18)"
+            >                                           `.`=++cc-+-`:                                            </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.810s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.810s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 209)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-19)"
+            >                                           ..:=s+*++*+:                                             </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.855s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.855s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 220)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-20)"
+            >                                            .`=+-+==*=:                                             </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.900s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.900s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 231)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-21)"
+            >                                            .`:`:+-.--.                                             </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.945s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.945s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 242)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-22)"
+            >                                            .:-`-*=`=+.                                             </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="0.990s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="0.990s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 253)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-23)"
+            >                                            +=+*cssccc+                                             </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.035s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.035s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 264)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-24)"
+            >                                           :#+-ccs##ccc:`                                           </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.080s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.080s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 275)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-25)"
+            >                                         `++ss-=*cc*+#c-*+-.                                        </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.125s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.125s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 286)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-26)"
+            >                                       `=ss+s%*==**+*%c:=+s+-`.                                     </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.170s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.170s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 297)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-27)"
+            >                                     .-**s*+c#s+++++s#s+==cc+=:`                                    </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.215s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.215s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 308)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-28)"
+            >                                   .-+**sc+*#ss*---+#s%%%c*sc*+-:                                   </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.260s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.260s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 319)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-29)"
+            >                                  `=c**c#c#%%#c*:.`c#%%s#c+sccc*=:                                  </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.305s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.305s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 330)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-30)"
+            >                                 .-*c**sssss###sc-*%##s=+c+s#csc*:`                                 </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.350s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.350s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 341)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-31)"
+            >                                 .=ccc+ccc**csss#ssscc*==*c+#ssss=`                                 </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.395s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.395s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 352)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-32)"
+            >                                 `+ccc**********s*cc***=*=c*+#sss*-                                 </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.440s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.440s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 363)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-33)"
+            >                                 :+ccc+**+++*****+**cc*=*++s+c###*c.                                </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.485s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.485s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 374)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-34)"
+            >                                 -*ccc+++*c*c**++++c**c=**+ss*###cs`                                </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.530s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.530s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 385)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-35)"
+            >                                `=**sc**s#cccc+*c*+c*+c*+c=##ss%#s#:                                </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.575s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.575s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 396)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-36)"
+            >                                -=**sc*c#c*ccc+#scscc*cc=c==#ss%#s#-                                </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.620s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.620s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 407)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-37)"
+            >                                =+*ccs*#s**cc*c#ccs###*+**+=c##@###-                                </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.665s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.665s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 418)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-38)"
+            >                                ***sc#ssc+*c**##csss##**c*+*c##%%%s=                                </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.710s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.710s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 429)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-39)"
+            >                                *c*s#%ss+=**cs%#ccs####ss***s#%%%%c*.                               </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.755s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.755s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 440)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-40)"
+            >                                *ccc#%cc=+*cs#%scscs%%%##csss#%%%c*+.                               </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.800s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.800s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 451)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-41)"
+            >                                +scss%*++s*c#%%ccsss##%##cc%ss%%###s-                               </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.845s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.845s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 462)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-42)"
+            >                                =#css%s+cs+c#%#cssscs#%%%s=#%s%%%%##c                               </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.890s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.890s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 473)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-43)"
+            >                               `+sss##*+cs=s%%sc###sc#%%%#+c%c*@%%#s-                               </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.935s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.935s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 484)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-44)"
+            >                               -+c###%==sc=#%#cs####cc#%%#*c@=.%%%#c-                               </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="1.980s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="1.980s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 495)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-45)"
+            >                               -+*s##%*-s**%%sc###s##*#%%#c*#- %%%%s=                               </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="2.025s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="2.025s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 506)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-46)"
+            >                               +ccs##%=:s+c%%*sscscs#sc%%%c=+: s%%#s*.                              </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="2.070s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="2.070s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 517)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-47)"
+            >                               -cs##%s `c+#%s+sssss*s#cs%%s--` c@%%#s`                              </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="2.115s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="2.115s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 528)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-48)"
+            >                               `cs##%+ `+c%#+c#ss#s*=css#%%*=` +#**+:                               </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="2.160s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="2.160s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 539)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-49)"
+            >                               .*cs#%* :+s%c+sss##s#+-+*cc%%*- -*=:`                                </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="2.205s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="2.205s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 550)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-50)"
+            >                               .*css#* =c#s=*#s#####c-:=**+#** =+=:`                                </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="2.250s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="2.250s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 561)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-51)"
+            >                                -=--==:*sc==ss######sc=-+*-+ss`*+-:.                                </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="2.295s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="2.295s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+        <g transform="translate(0, 572)">
+
+            <!-- ASCII characters -->
+            <text
+                x="0"
+                y="10"
+                font-family="monospace"
+                font-size="10px"
+                fill="#777777"
+                xml:space="preserve"
+                clip-path="url(#clip-52)"
+            >                                 ``:-+=++--*ss#cc#ss#s*==+*sc+`*=-`.                                </text>
+
+            <!-- Moving typing cursor -->
+            <rect
+                x="0"
+                y="0"
+                width="5"
+                height="10"
+                fill="#555555"
+                opacity="0.85"
+            >
+                <animate
+                    attributeName="x"
+                    from="0"
+                    to="600"
+                    begin="2.340s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+
+                <animate
+                    attributeName="opacity"
+                    values="0.85;0.85;0"
+                    keyTimes="0;0.98;1"
+                    begin="2.340s"
+                    dur="2.5s"
+                    fill="freeze"
+                />
+            </rect>
+
+        </g>
+        
+
+    </g>
+
+</svg>

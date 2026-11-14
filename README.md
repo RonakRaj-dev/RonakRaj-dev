@@ -1,51 +1,26 @@
-# 👋 Hi, I’m Ronak Raj (@RonakRaj-dev)
+ <div align="center">
 
-I am a **Full-Stack Developer** and **AI/ML Enthusiast** with a proven track record in hackathons and building scalable, intelligent systems. I specialize in bridging the gap between robust backend architectures and cutting-edge machine learning.
+### <code>ronak@github ~ $ ./contributions.sh</code>
 
----
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
 
-### 🚀 Quick Stats & Highlights
-* 🏆 **2nd Place** - BPUT Hackathon
-* 🏆 **3rd Place** - IIIT Hackathon
-* 🔭 **Currently Working On:** [Civil-Intel]([https://github.com/RonakRaj-dev/civilintel])
-* 🌱 **Learning:** Advanced Spring Security & System Design
+<br><br>
 
----
+### <code>ronak@github ~ $ whoami</code>
 
-### 🛠️ Tech Stack
+<table>
+  <tr>
+    <td valign="top" align="center">
+      <img src="./avi-ascii.svg" width="370" alt="ASCII portrait" />
+    </td>
+    <td valign="top" align="center">
+      <img src="./info-card.svg" width="490" alt="Developer information card" />
+    </td>
+  </tr>
+</table>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | Java, Spring Boot 3, Spring Security, MySQL, Flask |
-| **Frontend** | JavaScript, Tailwind CSS, HTML5, CSS3 |
-| **AI/ML** | Python, MediaPipe, LSTM, Scikit-learn, HuggingFace |
-| **DevOps/Tools** | Git, GitHub, Linux, Postman |
+<br>
 
----
+<code>ronak@github ~ $ exit</code>
 
-### 📂 Featured Projects
-
-* **[Smart Contact Manager (SCM)](https://github.com/RonakRaj-dev/Smart_Contact_Manager)** A full-stack contact management solution built with **Spring Boot** and **Tailwind CSS**, featuring secure authentication and cloud integration.
-* **[AI Pokemon Battle Sim](https://github.com/RonakRaj-dev/AI-Pokemon-Battle-Sim)** Exploring game logic and AI decision-making through a classic battle simulation.
-* **[Real-time Public Safety System](https://github.com/RonakRaj-dev/CivilIntel.git)** A VLM-based system for incident verification, utilizing **NLP** and **Computer Vision** to enhance emergency response accuracy.
-* **[Lungs-Disease-Detection](https://github.com/RonakRaj-dev/IIT-Lungs-Project.git)** A computer vision based project where more than 2 models are being used to detect disease in lungs.
-
----
-
-### 🔗 Connect With Me
-<p align="left">
-<a href="mailto:ronakraj1789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://github.com/RonakRaj-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://leetcode.com/RonakRaj-dev"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
-<a href="https://twitter.com/RonakBeher1712"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</p>
-
----
-
-### ⚡ Fun Facts & Interests
-* 🤖 **Fun Fact:** The Android mascot is actually a little green bug called **Bugdroid**!
-* 🎨 **Hobbies:** When I'm not coding, you'll find me drawing, watching anime, or gaming.
-* 🛡️ **Collaboration:** Currently focused on independent development and open-source contests.
-
----
-![GitHub Stats](https://github-readme-stats-three-sigma-80.vercel.app/api?username=RonakRaj-dev&show_icons=true&theme=radical)
+</div>
